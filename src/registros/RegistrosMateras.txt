@@ -1,0 +1,10 @@
+001::matera1::metal::pequeña::2000
+002::matera2::plastico::mediana::2000
+003::matera3::barro::grande::3000
+004::matera4::botella::extra grande::2300
+005::matera5::tapitas::extra pequeña::7000
+006::matera6::metal::pequeña::7000
+007::matera7::tapas::extra mediana::8000
+008::matera8::plastico::grande::9500
+009::matera9::botella::mediana::10000
+010::matera10::barro::peque::12000

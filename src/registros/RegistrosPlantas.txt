@@ -1,0 +1,10 @@
+001::planta1::cuidela bien::solar::2000
+002::planta2::cuidela mal::sombra::5000
+003::planta3::hechele agua::solar::4000
+004::planta4::hablele::sombra::1000
+005::planta5::nada::solar::0
+006::planta6::mucha agua::sombra::5000
+007::planta7::mantener en lugares humedos::sombra::500
+008::planta8::pongala en la luz::sombra::10000
+009::planta9::pongale amor::solar::6550
+010::planta10::digale cosas bonitas::solar::0

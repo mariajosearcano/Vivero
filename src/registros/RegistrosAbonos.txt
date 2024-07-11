@@ -1,0 +1,10 @@
+001::abono1::fuerte::jardin::5000
+002::abono2::suave::jardin::3000
+003::abono3::muy fuerte::cafe::10000
+004::abono4::fuerte::para hacer crecer::500
+005::abono5::medio::hace florecer::10000
+006::abono6::suave::queda linda::4000
+007::abono7::muy suave::se pone mas verde::2000
+008::abono8::duro::brilla::2500
+009::abono9::lento::cultivos::6000
+010::abono10::suave::flores::15950
